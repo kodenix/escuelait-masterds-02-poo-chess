@@ -1,0 +1,9 @@
+@startuml Chess
+
+	class Chess {
+		-Game game
+		+ main()
+	}
+
+
+@enduml
